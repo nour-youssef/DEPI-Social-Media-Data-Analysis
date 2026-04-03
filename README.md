@@ -53,11 +53,14 @@ Insights will be visualized using Power BI through an interactive dashboard incl
 - Productivity Impact Analysis: comparison between social media usage and
   productivity levels
 
+Roles & Responsibilities
 
-
-
-
-
+| Role | Team Members | Responsibilities |
+| :--- | :--- | :--- |
+| **Data Cleaning & Python Analysis** | Nour Ahmed Youssef, Mohamed Nagah Mohamed | Data preprocessing and exploratory analysis |
+| **Database & SQL Analysis** | Abdelrahman Mohamed Hamza, Mahmoud Ahmed Abbas | SQL queries and data aggregation |
+| **Data Exploration** | Mohamed Amr Mohamed, Youssef Emad Mohamady | Dataset exploration using Excel |
+| **Visualization** | Entire Team | Power BI dashboard development |
 
 
 
