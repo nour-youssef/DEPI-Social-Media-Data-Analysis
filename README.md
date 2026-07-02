@@ -14,7 +14,7 @@ The final outcome will be an interactive Power BI dashboard presenting insights 
 recommendations for improving digital productivity.
 
 Dataset Source
-https://www.kaggle.com/datasets/mahdimashayekhi/social-media-vs-productivity
+https://www.kaggle.com/datasets/rockyt07/social-media-user-analysis/data
 
 Team Members
 Nour Ahmed Youssef (Team Leader )
